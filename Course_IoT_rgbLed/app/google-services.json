@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "215380596024",
+    "firebase_url": "https://raspi-led-example.firebaseio.com",
+    "project_id": "raspi-led-example",
+    "storage_bucket": "raspi-led-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215380596024:android:4cf0e8fa737ab6ae",
+        "android_client_info": {
+          "package_name": "com.example.course_iot_rgbled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215380596024-1nekph1au2oi7htt2r7pu76f1eh3kr28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.course_iot_rgbled",
+            "certificate_hash": "d69807437fc64dbb5facdd78d5c2a4240d8cd8d0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo05J6Up3HgVCRmoKTuE4Ee5V3vdT18KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215380596024-vanmb5l7o6aisuddcsca20j8ggfnag9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

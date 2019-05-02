@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Course_IoT_rgbLed</string>
+    <string-array name="Colors">
+        <item>無</item>
+        <item>紅</item>
+        <item>綠</item>
+        <item>藍</item>
+        <item>黃</item>
+        <item>紫</item>
+        <item>青</item>
+        <item>白</item>
+    </string-array>
+</resources>
